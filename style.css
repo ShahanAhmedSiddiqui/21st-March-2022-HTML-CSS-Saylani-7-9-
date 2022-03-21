@@ -1,0 +1,52 @@
+.main-img {
+
+    display: inline-block;
+}
+
+.box {
+
+    display: inline-block;
+    position: absolute;
+    border: 2px solid red;
+    padding: 5px 30px;
+    width: 250px;
+    
+}
+
+.heading h1 {
+
+    text-align: center;
+}
+
+.form input {
+
+    padding: 10px 5px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.button button {
+
+    width: 100%;
+    padding: 8px 10px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    
+
+}
+
+.fb-details a {
+
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    
+
+}
+
+.fb-details p {
+
+    text-align: center;
+}
